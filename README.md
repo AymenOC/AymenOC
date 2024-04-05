@@ -1,4 +1,4 @@
-### Hi there 👋 I’m currently learning Data Science, AI and NLP and working on Personal Projects to enrich my knowledge in these fields 💻
+### Hi there!! 👋 I’m currently learning Data Science, AI and NLP and working on Personal Projects to enrich my knowledge in these fields. 💻
 <!--
 **AymenOC/AymenOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
