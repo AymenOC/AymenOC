@@ -22,7 +22,7 @@
 <a href="https://github.com/AymenOC/AymenOC.git">
 <img align="center" src="https://github-readme-stats-three-rho-31.vercel.app/api?username=AymenOC&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="GitHub Stats" /> </a>
 <a href="https://github.com/AymenOC/AymenOC.git">
-<img align="center" src="https://github-readme-stats-three-rho-31.vercel.app/api/top-langs/?username=AymenOC&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" /> </a>
+<img align="center" src="https://github-readme-stats-three-rho-31.vercel.app/api/top-langs/?username=AymenOC&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=5" /> </a>
 
 ## Socials
 
