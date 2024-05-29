@@ -1,15 +1,25 @@
-### Hi there!! 👋 I’m currently learning Data Science, AI and NLP and working on Personal Projects to enrich my knowledge in these fields. 💻
-<!--
-**AymenOC/AymenOC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+# Hi there!! 👋 I’m Aymen, I'm a Data Scientist and AI Engineer specialized in Natural Language Processing 💻
+# I'm working on personal projects to enrich my knowledge in my field 🌱, and I work with clients too on multiple platforms 💼.
+# and I'm currently prototyping a video game project that will be revealed soon 🔥
+### Tech Stack 
+<p align="left">
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="34" height="34" alt="Linux" /></a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="34" height="34" alt="Python" /></a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="34" height="34"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="34" height="34"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="34" height="34" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="34" height="34" alt="MySQL" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="34" height="34"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="34" height="34"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="34" height="34"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="34" height="34"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="34" height="34"/> </a> 
+</p>
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/AymenOC/AymenOC.git">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AymenOC&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="GitHub Stats" /> </a>
+<a href="https://github.com/AymenOC/AymenOC.git">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenOC&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" /> </a>
