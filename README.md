@@ -17,7 +17,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="34" height="34"/> </a> 
 </p>
 
-### GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/AymenOC/AymenOC.git">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AymenOC&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="GitHub Stats" /> </a>
