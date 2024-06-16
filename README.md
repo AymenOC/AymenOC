@@ -1,6 +1,6 @@
 ## Introduction
 #### Hi there!! 👋 I’m Aymen, I'm a Data Scientist and AI Engineer specialized in Natural Language Processing 💻
-#### I'm working on personal projects to enrich my knowledge in my field 🌱, and I work with clients too on multiple platforms 💼.
+#### I'm working on personal projects to enrich my knowledge in my field 🌱, and I work with clients too on multiple platforms 💼
 #### I'm currently prototyping a video game project that will be revealed soon 🔥
 ## Tech Stack 
 <p align="left">
