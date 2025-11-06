@@ -22,7 +22,7 @@
 ## Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/aymen-as-058228292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AymenOC" height="34" width="34" /></a>
+<a href="https://www.linkedin.com/in/aymen-as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AymenOC" height="34" width="34" /></a>
 </p>
 
 
